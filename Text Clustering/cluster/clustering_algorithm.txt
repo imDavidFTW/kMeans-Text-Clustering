@@ -1,0 +1,54 @@
+clustering algorithm (k-means)
+
+input:
+    corpus
+    k: number of clusters (In the class Main this is called numCluster.)
+    maxIteration: maximum iterations
+    n: size of corpus, i.e. the total number of documents
+
+initialization:
+    centroid = [0, 1, ..., k-1]
+    cluster = array of linked lists, i.e. cluster[i] is the ith cluster, with 0 <= i < k.
+    # note: centroid[i] is the centroid of cluster[i]
+
+repeat maxIteration times:(make a for loop or while loop){
+    for i = 0 to k-1:
+        clear cluster[i]
+
+    for x = 0 to n-1:
+        initialize maxIndex
+        initialize max
+        for i = 0 to k - 1:
+            if(similarity of x,centroid[i] > max)
+                max = similarity(x,centroid[i])
+                maxIndex = i
+        i = the index of the cluster with the nearest centroid to x
+        # note: nearest means that it has the largest similarity
+        add x to cluster[i]
+
+    for i = 0 to k-1:
+        // centroid[i] = find the centroid of cluster[i]
+        for num : cluster[i]
+            for num2 : cluster[i]
+                calculate the max similarity using similarity num, num2
+                    and save the element num when a new max is found and save the new max similarity calculated
+        centroid[i] = the element num that had the max similarity
+}
+
+# note: the centroid c in cluster[i] is the element of cluster[i] that maximizes sum(similarity(c, x)), for all x in cluster[i].
+# example: cluster[i] = [1, 3, 4], and suppose we have:
+#   similarity(1, 1) = 1.0
+#   similarity(1, 3) = 0.2
+#   similarity(1, 4) = 0.3
+#   similarity(3, 1) = 0.2
+#   similarity(3, 3) = 1.0
+#   similarity(3, 4) = 0.25
+#   similarity(4, 1) = 0.3
+#   similarity(4, 3) = 0.25
+#   similarity(4, 4) = 1.0
+#
+# then:
+#   sum(similarity(1, x)), for all x in cluster[i] = 1.0 + 0.2 + 0.3 = 1.5
+#   sum(similarity(3, x)), for all x in cluster[i] = 0.2 + 1.0 + 0.25 = 1.45
+#   sum(similarity(4, x)), for all x in cluster[i] = 0.3 + 0.25 + 1.0 = 1.55
+# Therefore c=4 is the centroid of cluster[i].

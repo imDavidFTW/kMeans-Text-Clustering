@@ -1,0 +1,45 @@
+Text Clustering 
+
+n documents
+documents can be news articles,books, etc
+The only information we have about the articles is the content (text).
+
+input - array of strings, where each string is a separate news article.
+	  - number of desired clusters
+
+clustering analysis: group items based on their similarity.
+items that are similar should be in the same cluster.
+Dissimilar items should be in separate clusters. 
+
+How can we compute the similarity between two documents
+based on the frequency of words in a document
+preprocessing steps:
+	- removing punctuation, numbers
+	- lower case
+	- remove stop words. Stop words are the most 
+	frequent words in the English language.
+
+sort the words in a document on their frequency.
+frequency of these words in the corpus
+
+Convert a document into an array of numbers (found using frequency measures)
+
+similarity function applied on the arrays of numbers
+
+implement a clustering algorithm; k-means, k is the number of desired clusters.
+
+objects:
+
+ - file reader: read files that contains the text and convert them to strings
+
+ - clustering algorithm
+
+ - text preprocessing: contains functions used in pre processing steps
+
+ - corpus - stores all of the documents 
+
+ - document: content, word frequency, similarity function
+
+corpus: n documents
+documents: terms or words
+ 

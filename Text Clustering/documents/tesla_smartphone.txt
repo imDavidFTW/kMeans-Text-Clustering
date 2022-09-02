@@ -1,0 +1,56 @@
+Tesla Smartphone Could Be a Game Changer
+
+Elon Musk tends to gravitate between brilliant and crazy, making him a lot of fun to watch if you aren’t an investor.
+
+Investors have way too many moments where they may regret their stakes in Musk’s companies, given he makes the related securities and several cryptocurrencies far more volatile than they otherwise would be.
+
+One recent rumor that Musk has been emphasizing is the creation of a Tesla phone with a unique feature set.
+
+The phone makes a lot of sense given where Tesla is going, particularly as a hedge against Apple’s rumored electric car.
+
+Let’s explore the potential for a Tesla phone this week. Then we’ll close with my product of the week, a set of earbuds that are the most comfortable I’ve ever tested.
+Tesla’s Apple Problem
+
+Tesla and Apple have a similar approach to their respective markets, and both enjoy similar advantages.
+
+Apple was built by a charismatic leader Steve Jobs, and Elon Musk has done a better job of mirroring Jobs’ unique approach to management and product creation than Tim Cook.
+
+Both companies have impressive brand loyalty with their customers, exact market valuations, and several large companies gunning for them.
+
+Tesla doesn’t do much marketing and has a history of poor quality control. While Apple has reduced its marketing substantially, it still essentially leads its market in this regard, and Apple tends to set the bar in terms of product quality.
+
+There is a very high correlation between iPhone users and Tesla buyers. So, if Apple brings out a car that is highly integrated into the Apple ecosystem, it can take a substantial share from Tesla.
+
+Of all the coming challengers to Tesla, Apple represents the greatest threat due to extreme customer loyalty, visibility, and sizeable marketing budget. Apple’s reserves make it a frightening future competitor to Tesla.
+
+Finally, smartphones are becoming keys on the new Tesla cars, and they are already integrated somewhat with Tesla’s in-car audiovisual technology. Apple would have a leg up with that integration and could break the interoperability with Tesla while driving Apple users from Telsa cars. This last is probably pushing Musk to consider doing his phone.
+The Tesla Phone
+
+The rumored phone is expected to have Qualcomm’s high-end Snapdragon 8 Series solution, colors that match Tesla car colors, operate better as a car key for Tesla autos than any other phone, and (this is the iffy part) connect to Starlink.
+
+This last is iffy because, typically, getting a smartphone to connect to a satellite requires a large antenna and a far more powerful radio. However, if they could get it to work, it would provide a vast, unique advantage to Tesla phone users who could get relatively high-bandwidth connections years before 5G is available to them.
+
+I think the better path would be to put the satellite connectivity into the car, which could better conceal the large antenna, and then have the phone connect through the car when a 5G network was unavailable or when you want to watch a movie (to get around data caps). Then the car gets an always-on satellite connection for remote operation and to report on attempted thefts or parking lot damage more reliably.
+
+Last but not least, with smartphones becoming keys to cars, a Tesla phone could be further integrated with your Tesla car.
+
+For instance, it could have dedicated buttons to lock, unlock, locate the vehicle, and scream for help using the car’s external speakers to get attention. The phone would also help the car locate you if you had the autonomous feature and wanted it to pick you up, which would be particularly handy for those of us who forget where we park.
+
+If Elon Musk is more visionary than Tim Cook was with the Apple Watch, he’ll make those features configurable so they could work with other cars, and the phone could be a foot in the door to getting those people to buy Teslas automobiles.
+
+Oh, and as a side note, a Tesla smartwatch that worked with the car might even be more interesting, but I haven’t heard a rumor of that yet. (By the way, there is a Tesla watch. It isn’t a smartwatch and it isn’t from Tesla. I have one, and it is pretty cool).
+
+As far as making a phone that worked out of the box, remember that Qualcomm helped Apple with the first iPhone, and they’ve become far more capable since then. With Qualcomm’s help, Tesla starts with market-leading phone technology and would need to add the car features, which they are certainly more than capable of doing.
+Wrapping Up
+
+Tesla could be better than Apple at integrating the car and phone.
+
+Although neither Tesla nor Apple has proven to be great partners, Qualcomm can partner well with anyone and was successful at helping Apple get started when it was far less than it is now.
+
+With Qualcomm’s help, Tesla potentially more than closes Apple’s phone technology advantage. Qualcomm has more car experience than Apple, given their work with car AV and autonomous driving.
+
+Even though Tesla is light on the phone side, Qualcomm will help close that gap; on the car side, Tesla knows far more than Apple. If Tesla can get its quality up to where it needs to be — a big if given its history — they should deliver a better driver experience than Apple can early on.
+
+In addition, the regulatory hurdles surrounding building a car are far more challenging to overcome than when building a phone, so Tesla arguably has a far faster time in the market with Qualcomm than Apple does with only its new car.
+
+Ironically, Steve Jobs was more of a car guy than Tim Cook, suggesting the first Apple car has a very high probability of being Apple’s Zune. If that Apple car is a catastrophe, well, it would likely make not only Elon Musk’s day — but also Steve Ballmer’s since he was the father of Zune and would appreciate Apple having a similar experience.

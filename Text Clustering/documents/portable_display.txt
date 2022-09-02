@@ -1,0 +1,84 @@
+InnoView 15.8" Portable Display: More Screen Space for Small Devices
+
+The InnoView 15.8″ portable monitor is one of the latest entries in the China-based manufacturer’s growing inventory of affordable, lightweight monitors.
+
+Carry-around monitors can be a frustrating accessory. Too many variables risk product dissatisfaction. Performance and features can be lacking, and they might be compatible with only some of your devices.
+
+The growing use of smartphones and tablets is driving a need for mobile solutions, and portable monitors like this add more screen real estate and ramp up productivity when on the go.
+
+This is the company’s biggest screen offering. Three other models vary in size and configurations at 14″ and 15.6″.
+
+The biggest drawback with the 15.8″ unit is the lack of a touchscreen. But its inviting price and the overall stellar performance make this model a can’t-pass-it-up deal.
+Checks Most Boxes
+
+This capable portable panel costs $189.99 on Amazon and $179.99 on the manufacturer’s website. It is a plug and play USB-C portable monitor with a display capability of Full High Definition (FHD) with 1920 x 1080 resolution and 300 nits brightness. It produces 16:9 aspect ratio with a 60Hz refresh rate.
+
+This makes the device a very suitable secondary monitor attached to much smaller devices with tiny screens. Its display capabilities are pleasant on the eyes.
+
+The 15.8″ model is an ultra-slim IPS display with a 178° viewing angle.
+
+InnoView portable monitor 178 degree viewing angle
+
+It has dual speakers (make unknown) and comes with three cables that connect most devices. These are one Mini-HDMI to HDMI cable, one USB-C to USB-C cable, and one USB-C to USB-A cable.
+
+This unit requires AC power. An 18W wall socket adapter and USB cable to power the monitor are included. It has no batteries and cannot be powered by the attached computer or tablet, even when they are not running on their own battery supply.
+
+The monitor has high dynamic range, or HDR — a new display technology that enhances color presentation. Also built in are FreeSync and low blue light technology for a better viewing experience.
+Monitor Build
+
+The monitor has a sturdy metal construction with very thin bezels on the top and two sides. The bottom bezel is 1.25″. The case is 0.212″ wide, 14.37″ x 9″, and weighs 1.5 lbs.
+
+The fully black metal case is firm and has no flex when held. Thicker casing at the base houses the additional circuitry and components that make the portable panel plug and play. The base also houses the dual hi-fi speakers.
+
+There is no MicroSD slot. On the lower left edge of the base is a 3.5mm headphone jack, a wheel button to access settings, and the on/off button.
+
+On the right side’s bottom edge of the base, viewed from the front, are one mini-HDMI port, one USB-C port, and a micro-USB port. One of those ports must have the power connection.
+Using It
+
+Other than adjusting the screen to your specific needs, no hardware and software configurations are needed. If attached to a computer, the only thing you need to do is open the computer’s display settings to select how you want the panel to respond.
+
+The standard computer settings usually allow the secondary monitor to either mirror the primary display or show whatever window content you drag from the primary monitor to the external panel.
+
+Pushing the panel’s wheel button opens a popup window in the lower left corner. Use the wheel to select the settings you want to adjust. These include picture brightness, color elements, and audio.
+Compatibility Matters
+
+This InnoView monitor works with a wide array of computers and mobile devices. Typically, Microsoft Windows and Apple computers work with the included cables. However, some Apple-specific cables or adapters may be needed.
+
+Apple iPhones need an adapter. Some Android smartphones will connect, but not all Android manufacturers provide a signal through the USB-C or USB-A port to drive the monitor. That could be an issue with some Android tablets as well.
+
+The monitor also connects to Xbox, PS3 /PS4 /PS5, Switches, etc via the USB-C or mini-HDMI ports.
+Linux Too, Mostly
+
+Product information does not list this monitor’s compatibility with Linux. However, I found that in most cases the portable panel was fully functional with Linux devices.
+
+Interfering factors are the hardware standards in the computer and the absence of supporting code in the particular Linux kernel driving the distribution you use.
+
+For instance, when I attached the portable panel to a laptop running the KDE Neon distribution, it recognized the external monitor but would only display the screen when the settings configured it as enabled. But that automatically disabled the laptop’s screen.
+
+Once connected, the portable panel had a distorted display. The Chrome OS device also threw a display fit. Mouse actions became sluggish, and opened windows only partially displayed.
+
+Chrome OS, the operating system bundled with the Chrome web browser to drive the Chromebook’s operation, does not have system settings related to dual monitor display functions. So, while I could drag windows from one screen to the other on some of the Chromebook models, I could not navigate the mouse pointer beyond the Chromebook’s internal display on other models.
+
+This phenomenon also occurred with other portable monitors attached to my Chromebooks.
+
+The portable panel maker never claimed that the InnoView portable monitor was certified to work with either the Linux OS or with Chromebooks. Perhaps now the Linux certification can be stated.
+
+InnoView portable monitor running on a Linux notebook
+
+Works with Linux, too! The 15.8″ model (right) displayed perfectly connected to a laptop running an Ubuntu-based Linux distribution.
+Final Thoughts
+
+This portable monitor is a very good solution for adding additional screen space to laptops and small-screen portable devices. It was not meant to be used as a primary monitor.
+
+If you can live without a touch screen, this model is an ideal choice. If you must have touch, then check out one of the other InnoView portable panels.
+
+If you need a portable device for your Chromebook, good luck. Google, who makes the Chrome OS, is only now starting to certify monitors and other peripherals to work with these computing alternatives.
+
+Two other mild disappointments with this model are at play.
+
+One is the poor quality of sound from the dual hi-fi speakers. I found them to sound very tinny from a lack of base. That was less bothersome when listening to speech. Though music playback was less pleasant.
+
+The second weakness is the flimsy stand that doubles as a protective carrying case for the panel. Other InnoView models have a one-piece metal bar that swings back from the edges to form a rigid tripod with the panel. Instead, this model has a slotted vinyl-covered plastic (or some other material) that folds into a triangular shape with the panel resting against the backing.
+Where To Buy
+
+The InnoView 15.8″ portable monitor is available currently on the manufacturer’s website, or at Amazon.

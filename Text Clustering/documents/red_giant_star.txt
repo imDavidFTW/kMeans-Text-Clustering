@@ -1,0 +1,37 @@
+Red giant star is blowing strange smoke rings as it is about to die
+
+A red giant star in the final stages of its existence has been caught emitting strange smoke-like rings for the first time.
+
+The star, called V Hydrae, located some 1,300 light-years from Earth, is a so-called asymptotic giant branch (AGB) star. That is a star which has reached the final stage of its red giant phase of existence before collapsing into a white dwarf.
+
+Observing the behavior of such stars therefore helps astronomers understand what happens in the final stages of a stellar death process.
+
+Astronomers have known before that stars in this phase dredge up material from their cores and expel it into the surrounding space.
+
+It was this expulsion of material that a team of scientists from NASA's Jet Propulsion Laboratory in California and the University of California, Los Angeles, observed when they looked at V Hydrae using the Atacama Large Millimeter/submillimeter Array (ALMA) and the Hubble Space Telescope.
+
+They discovered that the star is shedding six discs and two hourglass-shaped structures of matter from its interior, which is at this stage known to fuse helium into carbon.
+
+Stars during the regular phase of their lives fuse hydrogen into helium. The moment when hydrogen runs out marks the beginning of the red giant phase, which eventually sees the star burning helium and producing carbon. In the AGB phase, stars are gradually running through their helium reserves as well, and that's what seems to be happening to V Hydrae.
+
+"Our study dramatically confirms that the traditional model of how AGB stars die —through the mass ejection of fuel via a slow, relatively steady, spherical wind over 100,000 years or more — is at best, incomplete, or at worst, incorrect," said lead author Raghvendra Sahai, an astronomer at NASA's Jet Propulsion Laboratory in California, in a statement. 
+
+Astronomers were particularly surprised that V Hydrae was blowing out "smoke rings" (rings of dust) instead of just gaseous atmosphere, added co-author and astronomer Mark Morris of the University of California, Los Angeles in the same statement.
+
+This finding would have high relevance, given that more than 90% of stars with a mass of the sun (or larger) eventually become AGBs as they lose the ability to generate energy through nuclear fusion.
+
+"The end state of stellar evolution — when stars undergo the transition from being red giants to ending up as white dwarf stellar remnants — is a complex process that is not well understood," added Morris. 
+
+"The discovery that this process can involve the ejections of rings of gas, simultaneous with the production of high-speed, intermittent jets of material, brings a new and fascinating wrinkle to our exploration of how stars die."
+
+Four of the European Southern Observatory's Atacama Large Millimeter/submillimeter Array (ALMA) antennas gaze up at the night sky. Milky Way is visible at left.   (Image credit: ESO/José Francisco Salgado )
+
+The two hourglass-like clouds and an additional "jet-like structure" were warping away from the star at half a million mph (240 km per second.) 
+
+The hourglass-like clouds are not quite new to science, as astronomers spotted such phenomena before in stars shedding atmospheres, like within the Southern Crab Nebula.
+
+V Hydrae has been known to emit bursts of superheated gas, or plasma, about every 8.5 years, and scientists believe that some of its strange behavior might have something to do with a companion star, the existence of which has, however, not been confirmed. 
+
+"Each time we observe V Hydrae with new observational capabilities, it becomes more and more like a circus, characterized by an even bigger variety of impressive feats," Sahai said. "V Hydrae has impressed us with its multiple rings and acts, and because our own sun may one day experience a similar fate, it has us at rapt attention."
+
+A study based on the research was published in The Astrophysical Journal. A draft version is available on the pre-print server arXiv.

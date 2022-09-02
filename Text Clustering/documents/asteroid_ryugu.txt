@@ -1,0 +1,25 @@
+Asteroid Ryugu may be a remnant of an extinct comet
+
+The asteroid Ryugu, as seen by Japan's Hayabusa2 spacecraft on June 30, 2018.
+
+Observations from Japan's Hayabusa2 mission have astronomers questioning the true origin of the  near-Earth asteroid Ryugu.
+
+The Hayabusa2 mission launched in 2014, arrived at Ryugu in 2018 and returned samples of asteroid material to Earth in 2020. In addition to collecting these samples, the mission gathered important data about the cosmic body remotely. While the rock samples are still being studied, the remote observations revealed three important features about Ryugu: its composition, shape and possible origin, according to a statement from Nagoya City University in Japan.
+
+The remote observations suggest that rather than a single, monolithic boulder, Ryugu is a rubble-pile asteroid composed of small pieces of rock and solid material clumped together by gravity, researchers reported in a recent study. Ryugu is also shaped like a spinning top, likely because of its quick rotation, according to the statement.
+
+Lastly, the observations show that Ryugu has a remarkably high organic matter content, indicating that it did not originate from the leftover debris of a collision between two larger asteroids, as previously thought. Instead, Ryugu may be the remnant of an extinct comet that has lost most of its water ice, the researchers suggested in the study.
+
+Comets are composed of water ice, rocks and dust left over from the formation of the solar system about 4.6 billion years ago. They form on the outer, colder regions of the solar system. However, when a comet travels to the inner solar system, it heats up very quickly as it approaches the sun, which causes the solid ice to turn directly into gas via a process called sublimation. This process leaves behind only the rocky debris, which, in turn, is compacted by gravity, forming a rubble-pile asteroid.
+
+"Ice sublimation causes the nucleus of the comet to lose mass and shrink, which increases its speed of rotation," lead author Hitoshi Miura, an associate professor at Nagoya City University, said in the statement. "As a result of this spin-up, the cometary nucleus may acquire the rotational speed required for the formation of a spinning-top shape.
+
+"Additionally, the icy components of comets are thought to contain organic matter generated in the interstellar medium," Miura added. "These organic materials would be deposited on the rocky debris left behind as the ice sublimates."
+
+Using a physical model, the researchers simulated how long it would take for Ryugu's ice to sublimate, as well as estimated the increase in rotational speed of the resulting asteroid. Their simulations suggested that Ryugu likely spent tens of thousands of years as an active comet before moving to the inner solar system, where Ryugu's ice was vaporized, turning it into a rubble-pile asteroid, according to the statement.
+
+Further analysis of the Ryugu samples will help to confirm its origin. In turn, similar rubble-pile asteroids with high organic content may be what astronomers call comet-asteroid transition objects (CATs). The OSIRIS-REx mission, which aims to return samples from another near-Earth asteroid known as Bennu, will provide additional insight into these types of objects.
+
+"CATs are small objects that were once active comets but have become extinct and apparently indistinguishable from asteroids," Miura said in the statement. "Due to their similarities with both comets and asteroids, CATs could provide new insights into our solar system."
+
+Their findings were published Jan. 31 in The Astrophysical Journal Letters.
